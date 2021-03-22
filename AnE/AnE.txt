@@ -1,0 +1,13 @@
+Vorteile Objektorientiert Prozedual
+Polymorphie
+Vererbung
+Instanz
+Klassenvariablen (immer static)
+Instanzvariablen
+Konstruktor
+Objekte erzeugen
+Überladen
+Überschreiben
+Klassendiagramm
+Vorteile Oop
+https://www3.math.tu-berlin.de/Vorlesungen/WS03/Programmiermethoden/oo.pdf
